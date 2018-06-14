@@ -17,3 +17,5 @@ This is a test - is this thing on?
 ```
 sihT si a tset - si siht gniht ?no
 ```
+
+![alt text](https://raw.githubusercontent.com/wildsurf/react-frontend-challenge/master/public/screenshot.png "finished app screenshot")
