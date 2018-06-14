@@ -5,8 +5,8 @@ build a "state-of-the art" encryption tool! ;)
 
 In the Form component, you will find an input and an
 output element. A person (let's call him a secret agent)
-can enter a message. The message should then be reversed
-and the reversed message shown in the output box.
+can enter a message. Each word in the message should be reversed
+and the resulting message shown in the output box.
 
 #### Example
 ##### Input
