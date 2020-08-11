@@ -1,22 +1,21 @@
-
 body {
-  background-color: #eee;
-  font-family: Arial;
-  color: #666;
-  position: relative;
+		background-color: #eee;
+		font-family: Arial;
+		color: #666;
+		position: relative;
 }
 
 .box {
-  background: #fff;
-  padding: 20px;
-  margin-bottom: 20px;
+		background: #fff;
+		padding: 20px;
+		margin-bottom: 20px;
 }
 
 .form-field label {
-  display: block;
-  margin-bottom: 10px;
+		display: block;
+		margin-bottom: 10px;
 }
 
 .form-field textarea {
-  width: 100%;
+		width: 100%;
 }
