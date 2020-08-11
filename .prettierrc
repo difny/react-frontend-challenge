@@ -1,0 +1,17 @@
+{
+	"useTabs": true,
+	"printWidth": 120,
+	"tabWidth": 4,
+	"singleQuote": true,
+	"trailingComma": "none",
+	"bracketSpacing": false,
+	"jsxBracketSameLine": true,
+	"overrides": [
+		{
+			"files": "*.js.flow",
+			"options": {
+				"parser": "flow"
+			}
+		}
+	]
+}
